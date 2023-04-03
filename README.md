@@ -61,6 +61,7 @@
 <h3 align="left">Framework</h3>
 <p>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+    <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/ytc/AL5GRJVms8xNl0jy68ag-I2eITXSEUY-UsRC0YSflF3d-w=s900-c-k-c0x00ffffff-no-rj" alt="streamlit" width="40" height="40"/> </a> 
 </p> 
 <h3 align="left">Software</h3> 
 <p>
