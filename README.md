@@ -70,10 +70,16 @@
 <p>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
+<h3 align="left">Cloud</h3> 
+<p>
+    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=33039&format=png" alt="Amazon Cloud" width="40" height="40"/> </a> 
+    <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=512&id=WHRLQdbEXQ16&format=png" alt="Google Cloud Platform" width="40" height="40"/> </a> 
+</p>
 <h3 align="left">Other</h3> 
 <p>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://openai.com/blog/chatgpt" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/180px-ChatGPT_logo.svg.png" alt="chatgpt" width="40" height="40"/> </a> 
 </p>
 <p align="left"> 
 </p> 
