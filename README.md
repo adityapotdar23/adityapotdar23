@@ -60,17 +60,14 @@
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/tableau-5376637-4489897.png?f=avif&w=128" alt="tableau" width="40" height="40"/> </a> 
     <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-512/power-bi-3244521-2701891.png?f=avif&w=256" alt="powerbi" width="40" height="40"/> </a> 
 </p>
-<!-- <h3 align="left">Devops</h3> 
-<p>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-</p> -->
+
 <h3 align="left">Framework</h3>
 <p>
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
     <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/ytc/AL5GRJVms8xNl0jy68ag-I2eITXSEUY-UsRC0YSflF3d-w=s900-c-k-c0x00ffffff-no-rj" alt="streamlit" width="40" height="40"/> </a> 
+    <a href="https://spark.apache.org/docs/latest/api/python/#" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170561.png" alt="pyspark" width="40" height="40"/> </a> 
 </p> 
+
 <h3 align="left">Software</h3> 
 <p>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
