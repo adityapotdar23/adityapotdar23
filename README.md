@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapotdar23&label=Profile%20views&color=0e75b6&style=flat" alt="adityapotdar23" /> </p>
 
-- 💬 Ask me about **Deep Learning**
-
 - 📫 How to reach me **adityapotdar20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -71,6 +69,7 @@
 <h3 align="left">Software</h3> 
 <p>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+    <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/174/174881.png" alt="wordpress" width="40" height="40"/> </a> 
 </p>
 <h3 align="left">Cloud</h3> 
 <p>
