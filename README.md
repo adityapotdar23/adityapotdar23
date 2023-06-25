@@ -70,6 +70,7 @@
 <p>
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
     <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/128/174/174881.png" alt="wordpress" width="40" height="40"/> </a> 
+    <a href="https://bubble.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/12685541?s=280&v=4" alt="bubble" width="40" height="40"/> </a> 
 </p>
 <h3 align="left">Cloud</h3> 
 <p>
