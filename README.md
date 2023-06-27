@@ -13,6 +13,7 @@
 <a href="https://kaggle.com/https://www.kaggle.com/adityapotdar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/adityapotdar23" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/adityap23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/adityap23" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/adityap23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityap23/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/adityapotdar20?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" alt="https://leetcode.com/adityap23/" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Programming Languages</h3> 
