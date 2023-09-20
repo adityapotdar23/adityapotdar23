@@ -10,7 +10,7 @@
 <p align="left"> 
 <p>
 <a href="www.linkedin.com/in/aditya-n-potdar" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-potdar-b53028143/" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/aditya-n-potdar" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/adityapotdar23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/adityapotdar23" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/adityap23" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/adityap23" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/adityap23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adityap23/" height="30" width="40" /></a>
