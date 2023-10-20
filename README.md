@@ -62,6 +62,4 @@
 <p align="left"> 
 </p> 
 
-<div style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityapotdar23" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityapotdar23)
