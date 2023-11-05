@@ -62,4 +62,13 @@
 <p align="left"> 
 </p> 
 
+## Quick Overview 📝
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=adityapotdar23)](https://git.io/streak-stats)
+
+<a href="https://github.com/AkshayAnil1080/github-readme-stats">
+ 
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=adityapotdar23&layout=compact&theme=radical" />
+</a>
+
+###
