@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+Folks;I'm+Aditya+Potdar)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Aditya Potdar</h1>
-<h3 align="center">Data Science Enthusiastic</h3>
+<h3 align="center">Tech Savvy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityapotdar23&label=Profile%20views&color=0e75b6&style=flat" alt="adityapotdar23" /> </p>
 
