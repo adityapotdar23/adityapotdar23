@@ -64,6 +64,8 @@
 
 ## Quick Overview 📝
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityapotdar23" alt="adityapotdar23" /></a> </p>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=adityapotdar23)](https://git.io/streak-stats)
 
 <a href="https://github.com/adityapotdar23/github-readme-stats">
